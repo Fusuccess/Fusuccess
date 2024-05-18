@@ -1,18 +1,16 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小符同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=Have+a+happy+day%2C+Mr.+Fu!;%E5%B0%8F%E7%AC%A6%E5%90%8C%E5%AD%A6%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!;%E7%AC%A6%E5%85%88%E7%94%9F%EF%BC%8C%E7%A5%9D%E4%BD%A0%E6%9C%89%E5%80%8B%E5%BF%AB%E6%A8%82%E5%98%85%E4%B8%80%E6%97%A5%EF%BC%81;%E3%83%95%E3%83%BC%E3%81%95%E3%82%93%E3%80%81%E5%B9%B8%E3%81%9B%E3%81%AA%E4%B8%80%E6%97%A5%E3%82%92%E3%81%8A%E7%A5%88%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99!;%D0%A1%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F%2C+%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80+%D0%A4%D1%83!&center=true&size=20"> </a> </h1>
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Fusuccess)
+
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Fusuccess) 
 [![](https://img.shields.io/badge/-Gitee-c5312a?style=flat-square&logo=Gitee&logoColor=ffffff)](https://gitee.com/Fusuccess)
 [![](https://img.shields.io/badge/Wechat_Fusuccess-a2c73e?style=flat-square&logo=Wechat&logoColor=ffffff)](https://github.com/Fusuccess)
-[![](https://img.shields.io/badge/-Telegram-007396?style=flat-square&logo=Telegram&logoColor=ffffff)](https://t.me/Fusuccess)
-[![](https://img.shields.io/badge/-TikTok-007396?style=flat-square&logo=tiktok&logoColor=ffffff)](https://tiktok.com/Fusuccess)
 
 
 - 👤 Ordinary young programmer, _BSc in Computer Science_
-- ✍️ [Blogger](http://fusuccess.top)
+- ✍️ [Blogger](http://fusuccess.top) / [Travel](http://travel.fusuccess.top)
 - 🏃 Cycling / swimming / running / badminton
 - 🗺️ ShangHai / WuHan / GuangZhou / ShenZhen
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fusuccess&count_private=true&show_icons=true)
 ### Language and tools
 [![](https://img.shields.io/badge/-Java-3b88c5?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-JSP-232228?style=flat-square&logo=Jsp&logoColor=ffffff)](https://www.javatpoint.com/jsp-tutorial)
@@ -76,7 +74,7 @@
 [![](https://img.shields.io/badge/react-2f75dc?style=flat-square&logo=react&logoColor=ffffff)](https://react.dev/)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fusuccess&theme=react)](https://github.com/Fusuccess/)
+[![Github代码活跃度](https://github-readme-activity-graph.vercel.app/graph?username=Fusuccess&theme=react)](https://github.com/Fusuccess/)
 
 
 <!--
