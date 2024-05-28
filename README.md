@@ -8,7 +8,7 @@
 - 👤 Ordinary young programmer, _BSc in Computer Science_
 - 🏃 Cycling / swimming / running / badminton
 - 🗺️ ShangHai / WuHan / GuangZhou / ShenZhen
-- 💻 [Website](http://fusuccess.top)
+- 💻 [Website](fusuccess.top)
 ### Language and tools
 [![](https://img.shields.io/badge/-Java-3b88c5?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-JSP-232228?style=flat-square&logo=Jsp&logoColor=ffffff)](https://www.javatpoint.com/jsp-tutorial)
