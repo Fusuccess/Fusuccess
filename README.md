@@ -10,6 +10,8 @@
 - 🗺️ ShangHai / WuHan / GuangZhou / ShenZhen
 - 💻 [Website](http://fusuccess.top)
 ### Language and tools
+> 后端
+
 [![](https://img.shields.io/badge/-Java-3b88c5?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-JSP-232228?style=flat-square&logo=Jsp&logoColor=ffffff)](https://www.javatpoint.com/jsp-tutorial)
 [![](https://img.shields.io/badge/-Spring-2f5f1c?style=flat-square&logo=Spring&logoColor=ffffff)](https://spring.io)
@@ -25,17 +27,22 @@
 [![](https://img.shields.io/badge/-nginx-429343?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-minio-b73c4b?style=flat-square&logo=minio&logoColor=ffffff)](https://min.io/)
 
+> 前端
+
 [![](https://img.shields.io/badge/-JavaScript-998347?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://docs.oracle.com/en/database/oracle/oracle-database/23/mlejs/oracle-database-javascript-developers-guide.pdf)
 [![](https://img.shields.io/badge/-HTML-998347?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
 [![](https://img.shields.io/badge/-Vue-51b389?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-CSS-4577ae?style=flat-square&logo=CSS3&logoColor=ffffff)](https://www.w3schools.com/Css/)
 [![](https://img.shields.io/badge/-Hugo-e95286?style=flat-square&logo=Hugo&logoColor=ffffff)](https://gohugo.io/)
 
+> 中间件
 
 [![](https://img.shields.io/badge/-Redis-c93d2f?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io/)
 [![](https://img.shields.io/badge/-Elasticsearch-1d1b1d?style=flat-square&logo=elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 [![](https://img.shields.io/badge/-Quartz-689fd0?style=flat-square&logo=quartz&logoColor=ffffff)](https://www.quartz-scheduler.org/)
 [![](https://img.shields.io/badge/-Nacos-689fd0?style=flat-square&logo=nacos&logoColor=ffffff)](https://nacos.io/)
+
+> 组件库
 
 [![](https://img.shields.io/badge/-ElementUI-4982da?style=flat-square&logo=ElementUI&logoColor=ffffff)](https://element.eleme.cn/)
 [![](https://img.shields.io/badge/-EasyUI-001884?style=flat-square&logo=EasyUI&logoColor=ffffff)](https://jeasyui.com/)
@@ -43,33 +50,45 @@
 [![](https://img.shields.io/badge/-Echarts-9d3b4e?style=flat-square&logo=apacheecharts&logoColor=ffffff)](https://echarts.apache.org/)
 [![](https://img.shields.io/badge/-HeighCharts-8088e2?style=flat-square&logo=HeighCharts&logoColor=ffffff)](https://www.highcharts.com/)
 
+> 开发工具
+
 [![](https://img.shields.io/badge/-IDEA-6455bd?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/-DataGrip-5b9fb4?style=flat-square&logo=datagrip&logoColor=ffffff)](https://www.jetbrains.com/datagrip/)
 [![](https://img.shields.io/badge/-VisualStudioCode-1b9cf0?style=flat-square&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Eclipse-3b3b3b?style=flat-square&logo=Eclipse&logoColor=ffffff)](https://www.eclipse.org/)
 
+> 操作语言
+
 [![](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=bash&logoColor=ffffff)](https://www.gnu.org/software/bash/manual/bash.html)
 [![](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
+> 操作系统
+
 [![](https://img.shields.io/badge/-Linux-3b3b3b?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.linux.org/)
 [![](https://img.shields.io/badge/-Centos-1f2474?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/-Ubuntu-cd522a?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/-Redhat-dc2f21?style=flat-square&logo=redhat&logoColor=ffffff)](https://redhat.com/)
+
+> 数据库
 
 [![](https://img.shields.io/badge/-Oracle-945456?style=flat-square&logo=Oracle&logoColor=ffffff)](https://www.oracle.com/)
 [![](https://img.shields.io/badge/-Mysql-235b82?style=flat-square&logo=Mysql&logoColor=ffffff)](https://www.mysql.com/)
 
+> 其他
 
 [![](https://img.shields.io/badge/-Docker-2f6fb8?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-OpenVPN-f68e36?style=flat-square&logo=openvpn&logoColor=ffffff)](https://openvpn.net/)
 
 
-### Game
+> Game
+
 [![](https://img.shields.io/badge/Minecraft-808254?style=flat-square&logo=minecraft&logoColor=ffffff)](https://www.minecraft.net/)
 
-### Learning 
-[![](https://img.shields.io/badge/Python-2f75dc?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/react-2f75dc?style=flat-square&logo=react&logoColor=ffffff)](https://react.dev/)
+> Learning
+> 
+[![](https://img.shields.io/badge/+&nbsp;📧&nbsp;mailserver-2f75dc?style=flat-square&logo=docker&logoColor=ffffff)]([https://www.mailserver.org/](https://hub.docker.com/r/mailserver/docker-mailserver))
+[![](https://img.shields.io/badge/+&nbsp;📊&nbsp;ExcelIntelligentDataImport-2f75dc?style=flat-square&logo=Springboot&logoColor=ffffff)](https://react.dev/)
 
 
 [![Github代码活跃度](https://github-readme-activity-graph.vercel.app/graph?username=Fusuccess&theme=react)](https://github.com/Fusuccess/)
