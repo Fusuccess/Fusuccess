@@ -18,7 +18,7 @@
 - 💻 **后端工程**：主攻 Java / Spring Boot / 微服务架构，擅长高并发中间件调度、动态数据视图处理与通信协议对接
 - 🛠️ **DevOps & 自动化**：精通 Nginx 虚拟主机路由部署、Docker 容器化、GitHub Webhook 自动构建与通知系统。
 - 🤖 **AI & 生产力**：深度探索本地大模型部署（AutoGLM / PyTorch / CUDA）、AI Coding Agent（Cursor, Windsurf, OpenClaw）与自动化流水线。
-- 🏃 **生活与运动**：系统化健身（Hypertrophy Split）、骑行、游泳、跑步、羽毛球 🚴‍♂️🏊‍♂️🏃‍♂️🏸
+- 🏃 **生活与运动**：骑行、游泳、跑步、羽毛球 🚴‍♂️🏊‍♂️🏃‍♂️🏸
 
 ---
 
